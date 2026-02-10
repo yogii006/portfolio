@@ -1,0 +1,35 @@
+[
+  {
+    "company": "Rezolve AI",
+    "role": "AI Engineer",
+    "duration": "Sep 2025 – Present",
+    "location": "Remote",
+    "points": [
+      "Designed and implemented LangChain-based LLM tools enabling structured actions from natural language queries.",
+      "Integrated LLM tools with FastAPI services and Redis-backed session state for reliable data handling.",
+      "Worked closely with backend teams to debug state inconsistencies and harden production workflows."
+    ]
+  },
+  {
+    "company": "ShortHills AI",
+    "role": "AI Engineer Intern",
+    "duration": "Feb 2025 – Aug 2025",
+    "location": "Gurgaon",
+    "points": [
+      "Built an AI-powered resume matching system using MongoDB, n8n, and Azure OpenAI.",
+      "Improved HR screening efficiency by 7.5× and reduced candidate selection time by 65%.",
+      "Developed MediBot using RAG pipelines, achieving a 72.5% performance score with 20% latency reduction."
+    ]
+  },
+  {
+    "company": "Gakudo AI",
+    "role": "Data Science & Backend Intern",
+    "duration": "Dec 2023 – Jul 2024",
+    "location": "Remote",
+    "points": [
+      "Developed a career guidance chatbot for K12 students using LLaMA, improving answer relevance by 40%.",
+      "Built FastAPI backends with MongoDB, handling 5,000+ requests/day.",
+      "Created automated ETL pipelines, reducing manual data processing effort by 80%."
+    ]
+  }
+]
