@@ -4,35 +4,54 @@
     "title": "DevMate – AI Productivity Platform",
     "description": "AI-powered productivity platform that enables natural voice-to-voice interaction with multiple tools. DevMate provides agentic workflows for web search, YouTube summarization, stock prices, currency conversion, and document-based(multi format files like .png, .pdf, .pptx etc) Q&A, with support for downloadable AI-generated outputs.",
     "tech": ["FastAPI", "React", "LangGraph","STT","TTS", "OpenAI", "Supabase", "JWT"],
-    "liveUrl": "https://your-devmate-live-link.com",
-    "githubUrl": "https://github.com/yourname/devmate",
-    "demoVideo": "https://www.youtube.com/embed/VIDEO_ID"
+    "liveUrl": "https://devmate-monolith.onrender.com/",
+    "githubUrl": "https://github.com/yogii006/devmate",
+    "demoVideo": "https://www.youtube.com/embed/-XHQFR3IEG8"
   },
   {
-    "slug": "ai-resume-matching-hr-bot",
-    "title": "AI Resume Matching System (HR Bot)",
-    "description": "LLM-powered resume matching system designed for HR screening workflows. The system semantically matches resumes against job descriptions using Boolean logic, embeddings, and MongoDB, significantly improving shortlisting accuracy and reducing manual screening effort.",
-    "tech": ["Python", "MongoDB", "Azure OpenAI", "n8n", "Streamlit"],
-    "liveUrl": "https://your-hrbot-live-link.com",
-    "githubUrl": "https://github.com/yourname/ai-resume-matching",
-    "demoVideo": "https://www.youtube.com/embed/VIDEO_ID"
+    "slug": "mailcruit-ai-email-generator",
+    "title": "Mailcruit – AI-Powered Job Application Email Generator",
+    "description": "Mailcruit is a browser extension that generates personalized job application emails from copied job descriptions. It uses OpenAI or Gemini APIs to analyze the posting, extract recruiter details, and automatically draft a professional email in Gmail, significantly reducing manual effort.",
+    "tech": [
+      "JavaScript",
+      "Chrome Extension API",
+      "OpenAI API / Gemini API",
+      "Prompt Engineering",
+      "Gmail Integration",
+      "HTML",
+      "CSS"
+    ],
+    "liveUrl": "chrome-extension://djgdjekapnegnbiobjpfppocdphamkfc/options.html",
+    "githubUrl": "https://github.com/yogii006/job-extension",
+    "demoVideo": "https://www.youtube.com/embed/6m_uLKglF9k"
   },
   {
-    "slug": "medibot-rag-system",
-    "title": "MediBot – RAG-based Medical Assistant",
-    "description": "Retrieval-Augmented Generation (RAG) system that answers medical queries using scraped and preprocessed domain-specific data. MediBot combines semantic search with LLM-based reasoning to deliver accurate, low-latency responses over large unstructured datasets.",
-    "tech": ["Python", "LangChain", "RAG", "Vector Databases", "FastAPI"],
-    "liveUrl": "https://your-medibot-live-link.com",
-    "githubUrl": "https://github.com/yourname/medibot",
-    "demoVideo": "https://www.youtube.com/embed/VIDEO_ID"
+    "slug": "youtube-upload-automation",
+    "title": "AI-Powered YouTube Upload Automation Pipeline",
+    "description": "Automated YouTube video upload system that uses ChatGPT to generate SEO-optimized titles, descriptions, and tags from minimal input, then publishes via YouTube Data API and logs results in Google Sheets through a Railway-deployed webhook backend.",
+    "tech": [
+      "Python",
+      "FastAPI",
+      "N8N",
+      "ChatGPT API",
+      "YouTube Data API",
+      "Google Sheets API",
+      "Webhook",
+      "Railway",
+      "Workflow Automation"
+    ],
+    "liveUrl": "https://n8n-u7b1.onrender.com/",
+    "githubUrl": "https://github.com/yogii006/your-repo-name",
+    "demoVideo": "https://www.youtube.com/embed/JH9HsGrQJAs"
   },
+  
   {
     "slug": "face-recognition-attendance-system",
     "title": "Face Recognition Attendance Management System",
     "description": "Computer vision-based attendance management system that performs real-time face detection and recognition to automate attendance tracking. The system prevents proxy attendance and maintains high recognition accuracy across diverse lighting and image conditions.",
     "tech": ["Python", "Computer Vision", "OpenCV", "Face Recognition"],
     "liveUrl": "https://your-attendance-live-link.com",
-    "githubUrl": "https://github.com/yourname/face-recognition-attendance",
+    "githubUrl": "https://github.com/yogii006/face-recognition-attendance",
     "demoVideo": "https://www.youtube.com/embed/VIDEO_ID"
   }
 ]
