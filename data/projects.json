@@ -46,12 +46,12 @@
   },
   
   {
-    "slug": "face-recognition-attendance-system",
-    "title": "Face Recognition Attendance Management System",
-    "description": "Computer vision-based attendance management system that performs real-time face detection and recognition to automate attendance tracking. The system prevents proxy attendance and maintains high recognition accuracy across diverse lighting and image conditions.",
-    "tech": ["Python", "Computer Vision", "OpenCV", "Face Recognition"],
-    "liveUrl": "https://your-attendance-live-link.com",
-    "githubUrl": "https://github.com/yogii006/face-recognition-attendance",
-    "demoVideo": "https://www.youtube.com/embed/VIDEO_ID"
+    "slug": "online-clipboard",
+    "title": "Online Clipboard - Ephemeral Cross-Device File Sharing",
+    "description": "A web-based clipboard that enables users to securely share text, images, and files across devices using short 4-digit codes without authentication. Features TTL-based ephemeral storage, single-use retrieval, collision-safe code generation, automated cleanup workflows, and support for real-time cross-device sharing.",
+    "tech": ["FastAPI", "JavaScript", "Docker", "Render", "System Design"],
+    "liveUrl": "https://online-clipboard-y58n.onrender.com/",
+    "githubUrl": "https://github.com/yogii006/online-clipboard",
+    "demoVideo": "https://www.youtube.com/embed/eCzBHhMGRSw"
   }
 ]
